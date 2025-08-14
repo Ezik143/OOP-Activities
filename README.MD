@@ -1,3 +1,5 @@
+Sucgang jake F.
+
 ✏️ Activity 1: Array Manipulation
 
 Declare an integer array with 5 values.
